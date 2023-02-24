@@ -1,6 +1,6 @@
 while True:
     print("==========main menu==================")
-    print("1.String operations\n 2.Tuple operations\n 3.exit")
+    print("1.String operations\n 2.exit")
     print("=====================================")
     a=int(input("select option"))
     if a==1:
@@ -31,7 +31,5 @@ while True:
               print(str1+str2)
            else:
               break
-    elif a==2:
-         print("work under progress")
     else:
        exit()
