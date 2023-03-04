@@ -1,3 +1,5 @@
+#string operations
+
 while True:
     print("==========main menu==================")
     print("1.String operations\n 2.exit")
